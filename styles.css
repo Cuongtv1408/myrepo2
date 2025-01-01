@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    /* Set the gradient background from purple to teal */
+    background: linear-gradient(to right, #673AB7, #03A9F4);
+    /* Set the font family to be sans-serif */
+    font-family: sans-serif;
+    /* Set the color of the text to white */
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    /* Set the font size to 3rem */
+    font-size: 3rem;
+    text-align: center;
+}
